@@ -1,2 +1,4 @@
 # ECPR_python
-Materials for winter school
+
+Here you can find the materials for the winter school!
+I will upadate it with solution at the end of the course.
